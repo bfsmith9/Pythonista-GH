@@ -38,3 +38,5 @@ print(len(deck))
 # len() for the order class we talked about in the beginning:
 	
 (help(FrenchDeck))
+
+print("Test Working Copy")
