@@ -40,3 +40,5 @@ print(len(deck))
 (help(FrenchDeck))
 
 print("Test Working Copy")
+
+print("Test from Textastic")
